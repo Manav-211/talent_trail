@@ -13,7 +13,7 @@ function Signup() {
           Already have an account? <Link to="/" className="text-blue-600">Login</Link>
         </p>
       </div>
-    </div>
+    </div> 
   );
 }
 
